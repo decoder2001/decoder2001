@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vishal Chaudhary.
+- 🧑‍💻 I'm a Computer science and engineering student.
 - 👀 I’m interested in doing new-new stuffs.
 - 🌱 I’m currently learning Java and DSA(Basics).
 - 💞️ I’m looking to contribute on innovative projects.
