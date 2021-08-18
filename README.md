@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @decoder2001
+- 👋 Hi, I’m Vishal Chaudhary.
 - 👀 I’m interested in doing new-new stuffs.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on innovative projects.
-- 📫 How to reach me...directly mail me
+- 🌱 I’m currently learning Java and DSA(Basics).
+- 💞️ I’m looking to contribute on innovative projects.
 
 <!---
 decoder2001/decoder2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
